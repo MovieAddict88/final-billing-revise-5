@@ -111,7 +111,7 @@ Header
   left: 0;
   height: 45px;
   width: 100%;
-  background: #3e454c;
+  background: #284390;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -357,7 +357,7 @@ Top Navigation
   .cd-top-nav a {
     display: block;
     font-size: 1.4rem;
-    color: #ffffff;
+    color: #f8cb18;
   }
   .cd-top-nav > li {
     display: inline-block;
